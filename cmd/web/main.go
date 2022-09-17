@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/florindiconescu/bookings/pkg/config"
-	"github.com/florindiconescu/bookings/pkg/handlers"
-	"github.com/florindiconescu/bookings/pkg/render"
+	"github.com/florindiconescu/bookings/internal/config"
+	"github.com/florindiconescu/bookings/internal/handlers"
+	"github.com/florindiconescu/bookings/internal/render"
 )
 
 const portNumber = ":3000"
