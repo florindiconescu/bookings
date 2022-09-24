@@ -1,0 +1,18 @@
+mode: set
+github.com/florindiconescu/bookings/internal/forms/errors.go:5.44,7.2 1 1
+github.com/florindiconescu/bookings/internal/forms/errors.go:9.42,12.18 2 1
+github.com/florindiconescu/bookings/internal/forms/errors.go:16.2,16.14 1 1
+github.com/florindiconescu/bookings/internal/forms/errors.go:12.18,14.3 1 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:17.29,19.2 1 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:21.33,26.2 1 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:29.43,30.31 1 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:30.31,32.37 2 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:32.37,34.4 1 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:38.39,40.13 2 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:43.2,43.13 1 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:40.13,42.3 1 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:47.57,49.21 2 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:53.2,53.13 1 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:49.21,52.3 2 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:57.38,58.40 1 1
+github.com/florindiconescu/bookings/internal/forms/forms.go:58.40,60.3 1 1
